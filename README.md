@@ -1,7 +1,6 @@
 # -----
 # test
 # insert1
-# insert2
 # revoke_test1
 # edit1
 # edit2
